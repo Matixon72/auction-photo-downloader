@@ -1,2 +1,2 @@
 # auction-photo-downloader
-niebezpiecznie pobieranie zdjec z aukcji na popularnym serwisie do sprzedazy online
+niebezpiecznie narzedzie do pobierania zdjec z aukcji na popularnym serwisie do sprzedazy online
